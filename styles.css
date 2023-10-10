@@ -1,0 +1,77 @@
+
+p#title{
+    font: 60px Verdana, Geneva, Arial, sans-serif
+}
+
+body{
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: black;
+    line-height: 14pt; 
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+    background-color:  mistyrose;
+}
+
+/* h1 is the "selector in this case - identify tages on a page to which you apply styles */ 
+h1{
+    background-color: powderblue;
+    color: palevioletred;
+    font: 50px Verdana, Geneva, Arial, Helvetica, sans-serif; 
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+    line-height: 20pt;
+
+}
+
+p.subheader{
+    font-weight: bold;
+    color: #593d87;
+}
+
+img{
+    border: 10px solid black; 
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #8094d6
+}
+
+a:hover, a:active{
+    color:#FF9933; 
+}
+
+footer{
+    font-size: 9pt; 
+    font-style: italic; 
+    line-height: 12pt;
+    text-align: center; 
+    padding-top: 30pt;
+}
+
+
+table, tr, th, td{
+    border: 1px, solid block; 
+    border-collapse: collapse;
+    padding: 3px; 
+}
+
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto; 
+    
+}
+
+
+
+
+
+
+
